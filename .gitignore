@@ -13,3 +13,4 @@ wheels/
 .idea
 
 game_state.jsonl
+game_events.jsonl
